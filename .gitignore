@@ -1,2 +1,4 @@
 # Dependancies 
 node_modules
+.env
+.encryptedKey.JSON
